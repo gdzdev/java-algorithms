@@ -1,5 +1,4 @@
 ---
-
 ### **Búsqueda Secuencial (Linear Search)**
 
 - **Propósito**: El algoritmo de búsqueda secuencial se utiliza para encontrar un elemento en un arreglo o lista.
@@ -7,7 +6,7 @@
  coincidencia o se llega al final de la lista.
 
 - **Nivel de dificultad**:
-  - **Beginner**: Es uno de los algoritmos más fáciles de implementar en Java y no requiere conocimientos avanzados.
+  - **Beginner**: Es uno de los algoritmos más fáciles de implementar en Java.
 
 - **Problemas que resuelve**:
   - **Búsqueda en arreglos no ordenados**: Es útil cuando los datos no están ordenados, ya que no requiere una estructura
@@ -20,5 +19,4 @@
 
 - **Complejidad temporal**: O(n) en el peor de los casos, donde n es el número de elementos en el arreglo o lista.
 Esto significa que, a medida que la lista crece, el tiempo de búsqueda aumenta linealmente.
-
 ---
